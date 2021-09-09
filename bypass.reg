@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\Applicability]
+"BranchName"="Dev"
+"Ring"="External"
+"ContentType"="Mainline"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\UI\Selection]
+"UIContentType"="Mainline"
+"UIBranch"="Dev"
+"UIRing"="External"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
+"BypassCPUCheck"=dword:00000001
+"BypassStorageCheck"=dword:00000001
+"BypassRAMCheck"=dword:00000001
+"BypassTPMCheck"=dword:00000001
+"BypassSecureBootCheck"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup]
+"AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
+"BypassCPUCheck"=dword:00000001
+"BypassStorageCheck"=dword:00000001
+"BypassRAMCheck"=dword:00000001
+"BypassTPMCheck"=dword:00000001
+"BypassSecureBootCheck"=dword:00000001

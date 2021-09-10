@@ -5,8 +5,6 @@ Bypass New Windows 11 Dev Channel restriction for unsupported devices
 
 Tested And Working with latest Windows 11 Insider Preview (rs_prerelease)
 
-![image](https://user-images.githubusercontent.com/37355997/132634623-7689871f-a994-455a-a3cf-4557966fa751.png)
-
 # Download :- 
 
 [bypass.reg](https://github.com/rushiranpise/win11devbypass/raw/main/bypass.reg)

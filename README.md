@@ -24,7 +24,7 @@ Tested And Working with latest Windows 11 Insider Preview 2249.1000 (rs_prerelea
 
 * Once the update fails to install with the following error
 
-![image](https://user-images.githubusercontent.com/37355997/132635087-8b55424c-b025-4488-9344-e6ce4e675b30.png)
+![image](https://user-images.githubusercontent.com/37355997/132799054-09a34886-feeb-468b-b1b5-3ac39349fab3.png)
 
 * Run the downloaded bypass.reg file ( yes > yes > ok )
 

@@ -3,9 +3,7 @@
 
 Bypass New Windows 11 Dev Channel restriction for unsupported devices
 
-https://blogs.windows.com/windows-insider/2021/09/02/announcing-windows-11-insider-preview-build-22449/
-
-Tested And Working with latest Windows 11 Insider Preview 2249.1000 (rs_prerelease)
+Tested And Working with latest Windows 11 Insider Preview (rs_prerelease)
 
 ![image](https://user-images.githubusercontent.com/37355997/132634623-7689871f-a994-455a-a3cf-4557966fa751.png)
 
